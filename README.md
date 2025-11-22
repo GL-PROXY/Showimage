@@ -1,4 +1,4 @@
-# Showimage  
+# Showimage - Current not being worked on might pick it back up in the future 
 
 Showimage.lua lets you show NFP images on screens and wirelessly control any computer running it — all backed by some of the strongest encryption you'll ever see. ^_^  
 
